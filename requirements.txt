@@ -1,4 +1,5 @@
 antlr4-python3-runtime==4.9.3
+bluedot==2.0.0
 click==8.2.1
 markdown-it-py==4.0.0
 mdurl==0.1.2
